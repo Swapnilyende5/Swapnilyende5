@@ -4,7 +4,7 @@
 <div>
 <img          src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="code" width="300" height="200" />
 <img
-src="https://media.licdn.com/dms/image/v2/D5612AQHJOlx1t1gnIQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1687700213776?e=2147483647&v=beta&t=DjOj47bq6Z0_XXON1WsdeZ8ZnBbzYnKp9xp-tyISWik" alt="mern" width="300" height="200" />
+src="https://media.licdn.com/dms/image/v2/D5612AQHJOlx1t1gnIQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1687700213776?e=2147483647&v=beta&t=DjOj47bq6Z0_XXON1WsdeZ8ZnBbzYnKp9xp-tyISWik" alt="mern" width="220" height="200" />
 <img
 src="https://camo.githubusercontent.com/48161854bd8455e9a28fb00b81c3a985611dbedbd1128a41efd949457ffcdc14/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="mern" width="300" height="200" />
 </div>
